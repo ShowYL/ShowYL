@@ -7,7 +7,7 @@
 - 📧 You can reach me here: yannlacaze31@gmail.com
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,svelte,react,docker,git,github,gitlab,php,py,c,md,java,vscode,mysql,sqlite&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,svelte,react,docker,git,github,gitlab,php,py,c,md,java,vscode,mysql,sqlite,postman&perline=7)](https://skillicons.dev)
 
 
 
