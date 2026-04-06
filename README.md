@@ -6,7 +6,7 @@
 - 🙌 I'm an IT student
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,svelte,react,docker,git,github,gitlab,php,py,c,md,java,vscode,mysql,sqlite,postman&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,svelte,react,docker,git,github,gitlab,php,py,c,golang,java,vscode,postgres,sqlite,postman&perline=7)](https://skillicons.dev)
 
 
 
