@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F7F2ED&width=435&lines=Bonjour+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
-- 🙌 I'm an IT student
+- 🙌 I'm an CS student
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,svelte,react,docker,git,github,gitlab,php,py,c,golang,java,vscode,postgres,sqlite,postman&perline=7)](https://skillicons.dev)
